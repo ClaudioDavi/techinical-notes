@@ -1,7 +1,8 @@
-title:               My digital garden
+title:               Claudio Tech Notes
 include:             ['_pages']
-exclude:             []
-# You may need to change the base URL depending on your deploy configuration.
+exclude:             ['_includes/notes_graph.json']
+
+
 # Specifically, when using GitHub Pages, the baseurl should point to where GitHub
 # Pages deploys your repository (which is usually the repository name).
 baseurl:             ''
