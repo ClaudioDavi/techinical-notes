@@ -23,13 +23,12 @@ Optional layer of security for VPCs. Each subnet can be associated with one or m
 
 ### Subnet
 Specify the [[CIDR block]] for the subnet, which is a subset of the VPC [[CIDR block]].
-A subnet with trafic routed to an internet gateway is a _public subnet_
-
-### Elastic IP Address
-Use the Elastic IP (public IPv4) to mask a failure in your service rapdly remapping to another instance in the same account.
+A subnet with traffic routed to an internet gateway is a _public subnet_
 
 ### Elastic Network Interfaces
-Logical networking component in a VPC that can provice access to a network. A single instance can have more than one ENI, and because of that, an EC2 instance can have access to more than one network.
+Logical networking component in a VPC that can provide access to a network. A single instance can have more than one ENI, and because of that, an EC2 instance can have access to more than one network.
 
+Learn More: [[IP Addressing in VPC ]]
 
+---
 Links to: [[10 EC2 - MOC|EC2]], [[VPC]]

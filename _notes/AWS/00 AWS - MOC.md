@@ -16,6 +16,7 @@ id: aws-notes
 > - [[01 Security Identity & Compliance - MOC]] 
 > - [[01 Management and Governance - MOC]] 
 > - [[01 Analytics - MOC]]
+> - [[01 AI and ML Services - MOC]]
 > - Application Integration
 
 # Links
